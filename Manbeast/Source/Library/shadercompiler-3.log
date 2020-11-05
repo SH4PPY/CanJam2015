@@ -1,0 +1,109 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-5800
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=1008 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1008 outsize=1219 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1007 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1007 outsize=134 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10220 outsize=2620 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10220 outsize=2620 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10220 outsize=5369 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10220 outsize=3384 kw=WATER_REFLECTIVE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10220 outsize=627 kw=WATER_SIMPLE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10220 outsize=1826 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10220 outsize=4337 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10220 outsize=4752 kw=WATER_REFLECTIVE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10224 outsize=4933 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10224 outsize=4979 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10224 outsize=4979 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10224 outsize=484 kw=WATER_EDGEBLEND_ON WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10224 outsize=2662 kw=WATER_REFLECTIVE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1166 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=10224 outsize=6 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1026 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10224 outsize=4483 kw=WATER_EDGEBLEND_ON WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=10224 outsize=6 kw=WATER_SIMPLE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1026 kw=WATER_SIMPLE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3253 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3253 outsize=1698 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3251 outsize=120 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3267 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3259 outsize=101 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3259 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3268 outsize=344 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3261 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3254 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3258 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3253 outsize=59 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19342 outsize=1097 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19346 outsize=2401 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19341 outsize=308 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19339 outsize=700 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19345 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19338 outsize=242 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19345 outsize=438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19333 outsize=9343 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19344 outsize=222 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19334 outsize=385 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19335 outsize=14835 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19343 outsize=7825 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19353 outsize=1442 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19331 outsize=124 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19350 outsize=66 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4713 outsize=2990 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4713 outsize=588 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4708 outsize=2974 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4714 outsize=765 kw= ok=1

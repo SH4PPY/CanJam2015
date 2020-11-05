@@ -1,0 +1,20 @@
+# Blender v2.73 (sub 0) OBJ File: 'character middle 3.blend'
+# www.blender.org
+mtllib character middle 3.mtl
+o Middle_Finger_1_Cube.009
+v 2.409955 1.610689 1.645547
+v 2.409955 1.610689 1.507112
+v 2.598237 1.752570 1.507112
+v 2.598237 1.752570 1.645547
+v 2.355359 1.720923 1.651694
+v 2.355359 1.720923 1.515842
+v 2.550381 1.867883 1.542548
+v 2.550381 1.867883 1.620358
+usemtl Material
+s off
+f 5 6 2 1
+f 6 7 3 2
+f 7 8 4 3
+f 8 5 1 4
+f 1 2 3 4
+f 8 7 6 5

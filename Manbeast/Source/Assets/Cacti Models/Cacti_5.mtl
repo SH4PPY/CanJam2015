@@ -1,0 +1,59 @@
+# Exported from Wings 3D 1.5.3
+newmtl Mat 2
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.993333 0.86 0.25333333333333335
+Ka 0.9921568627450981 0.8588235294117647 0.2549019607843137
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl Mat 3
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.993333 0.0 0.25333333333333335
+Ka 0.9921568627450981 0.0 0.2549019607843137
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl sphere2_sep33_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd auvBG.tga
+
+newmtl sphere2_sep34_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd auvBG.tga
+
+newmtl sphere2_sep67_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd auvBG.tga
+
+newmtl sphere2_sep68_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd auvBG.tga
+

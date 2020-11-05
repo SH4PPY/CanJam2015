@@ -1,0 +1,20 @@
+# Blender v2.73 (sub 0) OBJ File: 'character first 3.blend'
+# www.blender.org
+mtllib character first 3.mtl
+o First_Finger_1_Cube.008
+v 2.399298 1.589030 1.819704
+v 2.452898 1.629420 1.698626
+v 2.581551 1.726367 1.787920
+v 2.527951 1.685977 1.908998
+v 2.353374 1.705798 1.812940
+v 2.402359 1.742711 1.702288
+v 2.512089 1.825398 1.830721
+v 2.481962 1.802696 1.898775
+usemtl Material
+s off
+f 5 6 2 1
+f 6 7 3 2
+f 7 8 4 3
+f 8 5 1 4
+f 1 2 3 4
+f 8 7 6 5

@@ -1,0 +1,20 @@
+# Blender v2.73 (sub 0) OBJ File: 'character little 2.blend'
+# www.blender.org
+mtllib character little 2.mtl
+o Little_Finger_2_Cube.006
+v 2.615143 1.782470 1.335252
+v 2.590520 1.761384 1.200667
+v 2.723398 1.914672 1.152340
+v 2.748021 1.935758 1.286926
+v 2.537168 1.878148 1.311690
+v 2.522787 1.865833 1.233084
+v 2.632739 1.994544 1.156413
+v 2.657362 2.015630 1.290999
+usemtl Material
+s off
+f 5 6 2 1
+f 6 7 3 2
+f 7 8 4 3
+f 8 5 1 4
+f 1 2 3 4
+f 8 7 6 5

@@ -1,0 +1,20 @@
+# Blender v2.73 (sub 0) OBJ File: 'character middle 1.blend'
+# www.blender.org
+mtllib character middle 1.mtl
+o Middle_Finger_Tip_Cube.001
+v 2.824447 1.999557 1.632820
+v 2.809982 2.005157 1.487687
+v 2.893820 2.207996 1.487157
+v 2.908286 2.202397 1.632290
+v 2.702844 2.049856 1.646881
+v 2.688379 2.055455 1.501748
+v 2.770160 2.255195 1.535816
+v 2.778011 2.253691 1.608922
+usemtl Material
+s off
+f 5 6 2 1
+f 6 7 3 2
+f 7 8 4 3
+f 8 5 1 4
+f 1 2 3 4
+f 8 7 6 5
